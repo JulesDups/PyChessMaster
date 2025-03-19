@@ -2,7 +2,8 @@
 
 Un jeu d'échecs complet développé en Python avec pygame, offrant une expérience de jeu fluide et intuitive.
 
-![Chess Board](assets/img/board_preview.png)
+![image](https://github.com/user-attachments/assets/361aca64-bf47-4371-8a27-2e5707ff9b3c)
+
 
 ## Fonctionnalités
 
